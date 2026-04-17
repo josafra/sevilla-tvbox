@@ -1,4 +1,21 @@
 {
   "europeos": [],
-  "nacionales": []
+  "nacionales": [
+    {
+      "id": "real-betis-vs-sevilla-fc",
+      "titulo": "Real Betis vs. Sevilla FC",
+      "fecha": "01/03/2026",
+      "escudo": "https://footballia.eu/uploads/team/logo/77/medium_230px-Real_betis_logo.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/87664/Betis_-_Sevilla_-_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/87667/Betis_-_Sevilla_-_2.mp4"
+        }
+      ]
+    }
+  ]
 }
