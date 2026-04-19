@@ -5,6 +5,7 @@
       "id": "real-betis-vs-sevilla-fc",
       "titulo": "Real Betis vs. Sevilla FC",
       "fecha": "01/03/2026",
+	   "marcador": "2 : 2",
       "escudo": "https://footballia.eu/uploads/team/logo/77/medium_230px-Real_betis_logo.svg.png",
       "videos": [
         {
@@ -21,6 +22,7 @@
       "id": "sevilla-fc-vs-fc-barcelona",
       "titulo": "Sevilla FC vs. FC Barcelona",
       "fecha": "05/10/2025",
+	   "marcador": "4 : 1",
       "escudo": "https://footballia.eu/uploads/team/logo/21/medium_559px-Logo_FC_Barcelona.svg.png",
       "videos": [
         {
@@ -37,6 +39,7 @@
       "id": "sevilla-fc-vs-real-betis",
       "titulo": "Sevilla FC vs. Real Betis",
       "fecha": "06/10/2024",
+	   "marcador": "1 : 0",
       "escudo": "https://footballia.eu/uploads/team/logo/77/medium_230px-Real_betis_logo.svg.png",
       "videos": [
         {
@@ -53,6 +56,7 @@
       "id": "real-betis-vs-sevilla-fc-2788",
       "titulo": "Real Betis vs. Sevilla FC",
       "fecha": "28/04/2024",
+	   "marcador": "1 : 1",
       "escudo": "https://footballia.eu/uploads/team/logo/77/medium_230px-Real_betis_logo.svg.png",
       "videos": [
         {
@@ -62,6 +66,23 @@
         {
           "label": "Parte 2",
           "url": "https://videos.footballia.net/uploads/video/source_file/63257/2023-24_Betis_-_Sevilla_-_2.mp4"
+        }
+      ]
+    },
+    {
+      "id": "sevilla-fc-vs-atletico-de-madrid",
+      "titulo": "Sevilla FC vs. Atlético de Madrid",
+      "fecha": "11/02/2024",
+      "marcador": "1 : 0",
+      "escudo": "https://footballia.eu/uploads/team/logo/82/medium_Club_Atletico_de_Madrid256x.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/60308/2324_SevillaAtletico_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/60310/2324_SevillaAtletico_2.mp4"
         }
       ]
     }
