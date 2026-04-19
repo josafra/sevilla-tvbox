@@ -16,6 +16,54 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/87667/Betis_-_Sevilla_-_2.mp4"
         }
       ]
+    },
+    {
+      "id": "sevilla-fc-vs-fc-barcelona",
+      "titulo": "Sevilla FC vs. FC Barcelona",
+      "fecha": "05/10/2025",
+      "escudo": "https://footballia.eu/uploads/team/logo/21/medium_559px-Logo_FC_Barcelona.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/82264/2025-26_Sevilla_-_Bar_a_-_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/82266/2025-26_Sevilla_-_Bar_a_-_2.mp4"
+        }
+      ]
+    },
+    {
+      "id": "sevilla-fc-vs-real-betis",
+      "titulo": "Sevilla FC vs. Real Betis",
+      "fecha": "06/10/2024",
+      "escudo": "https://footballia.eu/uploads/team/logo/77/medium_230px-Real_betis_logo.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/68209/2024SevBet_1a.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/68210/2024SevBet_2a.mp4"
+        }
+      ]
+    },
+    {
+      "id": "real-betis-vs-sevilla-fc-2788",
+      "titulo": "Real Betis vs. Sevilla FC",
+      "fecha": "28/04/2024",
+      "escudo": "https://footballia.eu/uploads/team/logo/77/medium_230px-Real_betis_logo.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/63256/2023-24_Betis_-_Sevilla_-_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/63257/2023-24_Betis_-_Sevilla_-_2.mp4"
+        }
+      ]
     }
   ]
 }
