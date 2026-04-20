@@ -5,7 +5,7 @@
       "id": "real-betis-vs-sevilla-fc",
       "titulo": "Real Betis vs. Sevilla FC",
       "fecha": "01/03/2026",
-	   "marcador": "2 : 2",
+      "marcador": "2 : 2",
       "escudo": "https://footballia.eu/uploads/team/logo/77/medium_230px-Real_betis_logo.svg.png",
       "videos": [
         {
@@ -19,10 +19,27 @@
       ]
     },
     {
+      "id": "sevilla-fc-vs-girona-fc",
+      "titulo": "Sevilla FC vs. Girona FC",
+      "fecha": "08/02/2026",
+      "marcador": "1 : 1",
+      "escudo": "https://footballia.eu/uploads/team/logo/387/medium_oie_hJT4L7gWgoii.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/86890/2026_Sevilla_v_Girona_1a.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/86891/2026_Sevilla_v_Girona_2a.mp4"
+        }
+      ]
+    },
+    {
       "id": "sevilla-fc-vs-fc-barcelona",
       "titulo": "Sevilla FC vs. FC Barcelona",
       "fecha": "05/10/2025",
-	   "marcador": "4 : 1",
+      "marcador": "4 : 1",
       "escudo": "https://footballia.eu/uploads/team/logo/21/medium_559px-Logo_FC_Barcelona.svg.png",
       "videos": [
         {
@@ -36,10 +53,27 @@
       ]
     },
     {
+      "id": "sevilla-fc-vs-ud-las-palmas",
+      "titulo": "Sevilla FC vs. UD Las Palmas",
+      "fecha": "13/05/2025",
+      "marcador": "1 : 0",
+      "escudo": "https://footballia.eu/uploads/team/logo/79/medium_180px-UD_Las_Palmas_logo.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/77769/2025SevLpa_1a.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/77773/2025SevLpa_2a.mp4"
+        }
+      ]
+    },
+    {
       "id": "sevilla-fc-vs-real-betis",
       "titulo": "Sevilla FC vs. Real Betis",
       "fecha": "06/10/2024",
-	   "marcador": "1 : 0",
+      "marcador": "1 : 0",
       "escudo": "https://footballia.eu/uploads/team/logo/77/medium_230px-Real_betis_logo.svg.png",
       "videos": [
         {
@@ -56,7 +90,7 @@
       "id": "real-betis-vs-sevilla-fc-2788",
       "titulo": "Real Betis vs. Sevilla FC",
       "fecha": "28/04/2024",
-	   "marcador": "1 : 1",
+      "marcador": "1 : 1",
       "escudo": "https://footballia.eu/uploads/team/logo/77/medium_230px-Real_betis_logo.svg.png",
       "videos": [
         {
