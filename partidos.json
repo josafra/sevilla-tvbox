@@ -16,6 +16,23 @@
           "url": "https://videos2.footballia.net/uploads/video/source_file/56457/2023-24_Psv_-_Sevilla_-_2.mp4"
         }
       ]
+    },
+    {
+      "id": "sevilla-fc-vs-rc-lens",
+      "titulo": "Sevilla FC vs. RC Lens",
+      "fecha": "20/09/2023",
+      "marcador": "1-1",
+      "escudo": "https://footballia.eu/uploads/team/logo/480/medium_452px-RC_Lens_logo.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/56074/2023-24_Sevilla_-_Lens_-_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/56075/2023-24_Sevilla_-_Lens_-_2.mp4"
+        }
+      ]
     }
   ],
   "nacionales": [
