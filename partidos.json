@@ -1,5 +1,23 @@
 {
-  "europeos": [],
+  "europeos": [
+    {
+      "id": "psv-eindhoven-vs-sevilla-fc",
+      "titulo": "PSV Eindhoven vs. Sevilla FC",
+      "fecha": "03/10/2023",
+      "marcador": "2-2",
+      "escudo": "https://footballia.eu/uploads/team/logo/109/medium_250px-PSV_Eindhoven.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/56454/2023-24_Psv_-_Sevilla_-_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/56457/2023-24_Psv_-_Sevilla_-_2.mp4"
+        }
+      ]
+    }
+  ],
   "nacionales": [
     {
       "id": "real-betis-vs-sevilla-fc",
@@ -224,6 +242,23 @@
         {
           "label": "Parte 2",
           "url": "https://videos.footballia.net/uploads/video/source_file/60310/2324_SevillaAtletico_2.mp4"
+        }
+      ]
+    },
+    {
+      "id": "sevilla-fc-vs-real-madrid",
+      "titulo": "Sevilla FC vs. Real Madrid",
+      "fecha": "21/10/2023",
+      "marcador": "1-1",
+      "escudo": "https://footballia.eu/uploads/team/logo/16/medium_143px-Real_Madrid_CF.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/56858/2023-24_Sevilla_-_R._Madrid_-_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/56861/2023-24_Sevilla_-_R._Madrid_-_2.mp4"
         }
       ]
     }
