@@ -36,6 +36,36 @@
       ]
     },
     {
+      "id": "sevilla-fc-vs-athletic-de-bilbao",
+      "titulo": "Sevilla FC vs. Athletic de Bilbao",
+      "fecha": "24/01/2026",
+      "marcador": "2-1",
+      "escudo": "https://footballia.eu/uploads/team/logo/78/medium_496px-Athletic_Club_Bilbao.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/86352/Sevilla_-_Athletic_-_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/86358/Sevilla_-_Athletic_-_2.mp4"
+        }
+      ]
+    },
+    {
+      "id": "elche-cf-vs-sevilla-fc",
+      "titulo": "Elche CF vs. Sevilla FC",
+      "fecha": "19/01/2026",
+      "marcador": "2-2",
+      "escudo": "https://footballia.eu/uploads/team/logo/732/medium_190px-Elche_CF_logo.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/87371/ELCHAEV__2526.mp4"
+        }
+      ]
+    },
+    {
       "id": "sevilla-fc-vs-fc-barcelona",
       "titulo": "Sevilla FC vs. FC Barcelona",
       "fecha": "05/10/2025",
@@ -49,6 +79,19 @@
         {
           "label": "Parte 2",
           "url": "https://videos.footballia.net/uploads/video/source_file/82266/2025-26_Sevilla_-_Bar_a_-_2.mp4"
+        }
+      ]
+    },
+    {
+      "id": "sevilla-fc-vs-elche-cf",
+      "titulo": "Sevilla FC vs. Elche CF",
+      "fecha": "12/09/2025",
+      "marcador": "2-2",
+      "escudo": "https://footballia.eu/uploads/team/logo/732/medium_190px-Elche_CF_logo.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/83583/SEVELCH__2526.mp4"
         }
       ]
     },
