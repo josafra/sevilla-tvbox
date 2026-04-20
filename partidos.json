@@ -113,6 +113,23 @@
       ]
     },
     {
+      "id": "sevilla-fc-vs-ud-las-palmas-7612",
+      "titulo": "Sevilla FC vs. UD Las Palmas",
+      "fecha": "13/05/2025",
+      "marcador": "1-0",
+      "escudo": "https://footballia.eu/uploads/team/logo/79/medium_180px-UD_Las_Palmas_logo.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/77769/2025SevLpa_1a.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/77773/2025SevLpa_2a.mp4"
+        }
+      ]
+    },
+    {
       "id": "sevilla-fc-vs-real-betis",
       "titulo": "Sevilla FC vs. Real Betis",
       "fecha": "06/10/2024",
