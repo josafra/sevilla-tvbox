@@ -113,19 +113,49 @@
       ]
     },
     {
-      "id": "sevilla-fc-vs-ud-las-palmas-7612",
-      "titulo": "Sevilla FC vs. UD Las Palmas",
-      "fecha": "13/05/2025",
-      "marcador": "1-0",
-      "escudo": "https://footballia.eu/uploads/team/logo/79/medium_180px-UD_Las_Palmas_logo.svg.png",
+      "id": "sevilla-fc-vs-valencia-cf",
+      "titulo": "Sevilla FC vs. Valencia CF",
+      "fecha": "11/01/2025",
+      "marcador": "1-1",
+      "escudo": "https://footballia.eu/uploads/team/logo/2/medium_Valencia_CF_logo.png",
       "videos": [
         {
           "label": "Parte 1",
-          "url": "https://videos.footballia.net/uploads/video/source_file/77769/2025SevLpa_1a.mp4"
+          "url": "https://videos.footballia.net/uploads/video/source_file/72691/2425_SevillaValencia_1.mp4"
         },
         {
           "label": "Parte 2",
-          "url": "https://videos.footballia.net/uploads/video/source_file/77773/2025SevLpa_2a.mp4"
+          "url": "https://videos.footballia.net/uploads/video/source_file/72692/2425_SevillaValencia_2.mp4"
+        }
+      ]
+    },
+    {
+      "id": "atletico-de-madrid-vs-sevilla-fc",
+      "titulo": "Atlético de Madrid vs. Sevilla FC",
+      "fecha": "08/12/2024",
+      "marcador": "4-3",
+      "escudo": "https://footballia.eu/uploads/team/logo/82/medium_Club_Atletico_de_Madrid256x.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/70531/2024AtmSev_1a.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/70532/2024AtmSev_2a.mp4"
+        }
+      ]
+    },
+    {
+      "id": "sevilla-fc-vs-rayo-vallecano",
+      "titulo": "Sevilla FC vs. Rayo Vallecano",
+      "fecha": "24/11/2024",
+      "marcador": "1-0",
+      "escudo": "https://footballia.eu/uploads/team/logo/225/medium_1024px-EscudoRayo.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/71290/SEVRAYV2425.mp4"
         }
       ]
     },
