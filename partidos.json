@@ -177,6 +177,23 @@
       ]
     },
     {
+      "id": "sevilla-fc-vs-real-valladolid",
+      "titulo": "Sevilla FC vs. Real Valladolid",
+      "fecha": "24/09/2024",
+      "marcador": "2-1",
+      "escudo": "https://footballia.eu/uploads/team/logo/238/medium_Real_Valladolid_CF_crest.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/68032/2024-25_Sevilla_-_Valladolid_-_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/68033/2024-25_Sevilla_-_Valladolid_-_2.mp4"
+        }
+      ]
+    },
+    {
       "id": "real-betis-vs-sevilla-fc-2788",
       "titulo": "Real Betis vs. Sevilla FC",
       "fecha": "28/04/2024",
