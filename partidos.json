@@ -360,6 +360,35 @@
         }
       ],
       "createdAt": 1777244990438
+    },
+    {
+      "id": "sevilla-fc-vs-as-roma",
+      "titulo": "Sevilla FC vs. AS Roma",
+      "fecha": "31/05/2023",
+      "temporada": "2022/23",
+      "marcador": "1-1",
+      "idioma": "ESP",
+      "competicion": "Europa League",
+      "escudo": "https://footballia.eu/uploads/team/logo/153/medium_800px-AS_Roma_Logo_2017.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/53727/2022-23_Sevilla_-_Roma_-_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/53728/2022-23_Sevilla_-_Roma_-_2.mp4"
+        },
+        {
+          "label": "Prórroga",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/53730/2022-23_Sevilla_-_Roma_-_3.mp4"
+        },
+        {
+          "label": "Celebracion",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/53731/2022-23_Sevilla_-_Roma_-_4.mp4"
+        }
+      ],
+      "createdAt": 1777245325257
     }
   ],
   "finales_europeas": []
