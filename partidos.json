@@ -16,7 +16,8 @@
           "url": "https://videos2.footballia.net/uploads/video/source_file/56457/2023-24_Psv_-_Sevilla_-_2.mp4"
         }
       ],
-      "temporada": "2023/24"
+      "temporada": "2023/24",
+      "idioma": "ESP"
     },
     {
       "id": "sevilla-fc-vs-rc-lens",
@@ -34,7 +35,8 @@
           "url": "https://videos2.footballia.net/uploads/video/source_file/56075/2023-24_Sevilla_-_Lens_-_2.mp4"
         }
       ],
-      "temporada": "2023/24"
+      "temporada": "2023/24",
+      "idioma": "ESP"
     }
   ],
   "nacionales": [
@@ -54,7 +56,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/87667/Betis_-_Sevilla_-_2.mp4"
         }
       ],
-      "temporada": "2025/26"
+      "temporada": "2025/26",
+      "idioma": "ESP"
     },
     {
       "id": "sevilla-fc-vs-girona-fc",
@@ -72,7 +75,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/86891/2026_Sevilla_v_Girona_2a.mp4"
         }
       ],
-      "temporada": "2025/26"
+      "temporada": "2025/26",
+      "idioma": "ESP"
     },
     {
       "id": "sevilla-fc-vs-athletic-de-bilbao",
@@ -90,7 +94,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/86358/Sevilla_-_Athletic_-_2.mp4"
         }
       ],
-      "temporada": "2025/26"
+      "temporada": "2025/26",
+      "idioma": "ESP"
     },
     {
       "id": "elche-cf-vs-sevilla-fc",
@@ -104,7 +109,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/87371/ELCHAEV__2526.mp4"
         }
       ],
-      "temporada": "2025/26"
+      "temporada": "2025/26",
+      "idioma": "ESP"
     },
     {
       "id": "sevilla-fc-vs-fc-barcelona",
@@ -122,7 +128,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/82266/2025-26_Sevilla_-_Bar_a_-_2.mp4"
         }
       ],
-      "temporada": "2025/26"
+      "temporada": "2025/26",
+      "idioma": "ESP"
     },
     {
       "id": "sevilla-fc-vs-elche-cf",
@@ -136,7 +143,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/83583/SEVELCH__2526.mp4"
         }
       ],
-      "temporada": "2025/26"
+      "temporada": "2025/26",
+      "idioma": "ESP"
     },
     {
       "id": "sevilla-fc-vs-ud-las-palmas",
@@ -154,7 +162,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/77773/2025SevLpa_2a.mp4"
         }
       ],
-      "temporada": "2024/25"
+      "temporada": "2024/25",
+      "idioma": "ESP"
     },
     {
       "id": "sevilla-fc-vs-valencia-cf",
@@ -172,7 +181,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/72692/2425_SevillaValencia_2.mp4"
         }
       ],
-      "temporada": "2024/25"
+      "temporada": "2024/25",
+      "idioma": "ESP"
     },
     {
       "id": "atletico-de-madrid-vs-sevilla-fc",
@@ -190,7 +200,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/70532/2024AtmSev_2a.mp4"
         }
       ],
-      "temporada": "2024/25"
+      "temporada": "2024/25",
+      "idioma": "ESP"
     },
     {
       "id": "sevilla-fc-vs-rayo-vallecano",
@@ -204,7 +215,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/71290/SEVRAYV2425.mp4"
         }
       ],
-      "temporada": "2024/25"
+      "temporada": "2024/25",
+      "idioma": "ESP"
     },
     {
       "id": "sevilla-fc-vs-real-betis",
@@ -222,7 +234,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/68210/2024SevBet_2a.mp4"
         }
       ],
-      "temporada": "2024/25"
+      "temporada": "2024/25",
+      "idioma": "ESP"
     },
     {
       "id": "sevilla-fc-vs-real-valladolid",
@@ -240,7 +253,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/68033/2024-25_Sevilla_-_Valladolid_-_2.mp4"
         }
       ],
-      "temporada": "2024/25"
+      "temporada": "2024/25",
+      "idioma": "ESP"
     },
     {
       "id": "real-betis-vs-sevilla-fc-2788",
@@ -258,7 +272,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/63257/2023-24_Betis_-_Sevilla_-_2.mp4"
         }
       ],
-      "temporada": "2023/24"
+      "temporada": "2023/24",
+      "idioma": "ESP"
     },
     {
       "id": "sevilla-fc-vs-atletico-de-madrid",
@@ -276,7 +291,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/60310/2324_SevillaAtletico_2.mp4"
         }
       ],
-      "temporada": "2023/24"
+      "temporada": "2023/24",
+      "idioma": "ESP"
     },
     {
       "id": "sevilla-fc-vs-real-madrid",
@@ -294,7 +310,8 @@
           "url": "https://videos.footballia.net/uploads/video/source_file/56861/2023-24_Sevilla_-_R._Madrid_-_2.mp4"
         }
       ],
-      "temporada": "2023/24"
+      "temporada": "2023/24",
+      "idioma": "ESP"
     }
   ],
   "finales_sevilla": [],
