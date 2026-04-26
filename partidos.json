@@ -316,8 +316,8 @@
   ],
   "finales_sevilla": [
     {
-      "id": "manchester-city-vs-sevilla-fc",
-      "titulo": "Manchester City vs. Sevilla FC",
+      "id": "manchester-city-vs-sevilla-fc-super-copa",
+      "titulo": "Manchester City vs. Sevilla FC -Super Copa",
       "fecha": "16/08/2023",
       "temporada": "2023/24",
       "marcador": "1-1",
@@ -337,7 +337,7 @@
           "url": "https://videos2.footballia.net/uploads/video/source_file/55451/2023_Man_City_-_Sevilla_-_3.mp4"
         }
       ],
-      "createdAt": 1777237118716
+      "createdAt": 1777237484356
     }
   ],
   "finales_europeas": []
