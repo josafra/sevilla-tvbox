@@ -339,6 +339,27 @@
         }
       ],
       "createdAt": 1777238761279
+    },
+    {
+      "id": "sevilla-fc-vs-independiente-del-valle",
+      "titulo": "Sevilla FC vs. Independiente del Valle",
+      "fecha": "19/07/2023",
+      "temporada": "2022/23",
+      "marcador": "1-1",
+      "idioma": "ESP",
+      "competicion": "UEFA-CONMEBOL Club Challenge",
+      "escudo": "https://footballia.eu/uploads/team/logo/464/medium_independiente-del-valle-2019-logo-A32BDB6CF6-seeklogo.com.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/55073/2023SevIdv_1st.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos.footballia.net/uploads/video/source_file/55074/2023SevIdv_2nd_Pen.mp4"
+        }
+      ],
+      "createdAt": 1777244990438
     }
   ],
   "finales_europeas": []
