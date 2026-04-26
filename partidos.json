@@ -17,7 +17,7 @@
         }
       ],
       "temporada": "2023/24",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "sevilla-fc-vs-rc-lens",
@@ -36,7 +36,7 @@
         }
       ],
       "temporada": "2023/24",
-      "idioma": "ESP"
+      "createdAt": 0
     }
   ],
   "nacionales": [
@@ -57,7 +57,7 @@
         }
       ],
       "temporada": "2025/26",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "sevilla-fc-vs-girona-fc",
@@ -76,7 +76,7 @@
         }
       ],
       "temporada": "2025/26",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "sevilla-fc-vs-athletic-de-bilbao",
@@ -95,7 +95,7 @@
         }
       ],
       "temporada": "2025/26",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "elche-cf-vs-sevilla-fc",
@@ -110,7 +110,7 @@
         }
       ],
       "temporada": "2025/26",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "sevilla-fc-vs-fc-barcelona",
@@ -129,7 +129,7 @@
         }
       ],
       "temporada": "2025/26",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "sevilla-fc-vs-elche-cf",
@@ -144,7 +144,7 @@
         }
       ],
       "temporada": "2025/26",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "sevilla-fc-vs-ud-las-palmas",
@@ -163,7 +163,7 @@
         }
       ],
       "temporada": "2024/25",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "sevilla-fc-vs-valencia-cf",
@@ -182,7 +182,7 @@
         }
       ],
       "temporada": "2024/25",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "atletico-de-madrid-vs-sevilla-fc",
@@ -201,7 +201,7 @@
         }
       ],
       "temporada": "2024/25",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "sevilla-fc-vs-rayo-vallecano",
@@ -216,7 +216,7 @@
         }
       ],
       "temporada": "2024/25",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "sevilla-fc-vs-real-betis",
@@ -235,7 +235,7 @@
         }
       ],
       "temporada": "2024/25",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "sevilla-fc-vs-real-valladolid",
@@ -254,7 +254,7 @@
         }
       ],
       "temporada": "2024/25",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "real-betis-vs-sevilla-fc-2788",
@@ -273,7 +273,7 @@
         }
       ],
       "temporada": "2023/24",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "sevilla-fc-vs-atletico-de-madrid",
@@ -292,7 +292,7 @@
         }
       ],
       "temporada": "2023/24",
-      "idioma": "ESP"
+      "createdAt": 0
     },
     {
       "id": "sevilla-fc-vs-real-madrid",
@@ -311,9 +311,34 @@
         }
       ],
       "temporada": "2023/24",
-      "idioma": "ESP"
+      "createdAt": 0
     }
   ],
-  "finales_sevilla": [],
+  "finales_sevilla": [
+    {
+      "id": "manchester-city-vs-sevilla-fc",
+      "titulo": "Manchester City vs. Sevilla FC",
+      "fecha": "16/08/2023",
+      "temporada": "2023/24",
+      "marcador": "1-1",
+      "idioma": "ENG",
+      "escudo": "https://footballia.eu/uploads/team/logo/52/medium_Manchester_City_2016.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/55449/2023_Man_City_-_Sevilla_-_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/55450/2023_Man_City_-_Sevilla_-_2.mp4"
+        },
+        {
+          "label": "Entrega del Titulo",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/55451/2023_Man_City_-_Sevilla_-_3.mp4"
+        }
+      ],
+      "createdAt": 1777237118716
+    }
+  ],
   "finales_europeas": []
 }
