@@ -62,6 +62,27 @@
         }
       ],
       "createdAt": 1777294201716
+    },
+    {
+      "id": "juventus-fc-vs-sevilla-fc",
+      "titulo": "Juventus FC vs. Sevilla FC",
+      "fecha": "11/05/2023",
+      "temporada": "2022/23",
+      "marcador": "1-1",
+      "idioma": "ENG",
+      "competicion": "Europa League-Semi-fina",
+      "escudo": "https://footballia.eu/uploads/team/logo/23/medium_800px-Juventus_FC_2017_logo.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/53175/2022-23_Juventus_-_Sevilla_-_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/53180/2022-23_Juventus_-_Sevilla_-_2.mp4"
+        }
+      ],
+      "createdAt": 1777295443008
     }
   ],
   "nacionales": [
