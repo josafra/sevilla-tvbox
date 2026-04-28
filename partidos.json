@@ -83,6 +83,61 @@
         }
       ],
       "createdAt": 1777295443008
+    },
+    {
+      "id": "sevilla-fc-vs-manchester-united",
+      "titulo": "Sevilla FC vs. Manchester United",
+      "fecha": "20/04/2023",
+      "temporada": "2022/23",
+      "marcador": "3-0",
+      "idioma": "ESP",
+      "competicion": "Europa League - Cuartos",
+      "escudo": "https://footballia.eu/uploads/team/logo/10/medium_592px-Manchester_United_FC.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/52614/2022-23_Sevilla_-_Man_Utd.mp4"
+        }
+      ],
+      "createdAt": 1777414918532
+    },
+    {
+      "id": "manchester-united-vs-sevilla-fc",
+      "titulo": "Manchester United vs. Sevilla FC",
+      "fecha": "13/04/2023",
+      "temporada": "2022/23",
+      "marcador": "2-2",
+      "idioma": "ESP",
+      "competicion": "Europa League",
+      "escudo": "https://footballia.eu/uploads/team/logo/10/medium_592px-Manchester_United_FC.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/52354/2022-23_Man_Utd_-_Sevilla__M___-_1.mp4"
+        },
+        {
+          "label": "Parte 2",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/52358/2022-23_Man_Utd_-_Sevilla__M___-_2.mp4"
+        }
+      ],
+      "createdAt": 1777415336209
+    },
+    {
+      "id": "sevilla-fc-vs-fenerbahce-sk",
+      "titulo": "Sevilla FC vs. Fenerbahçe SK",
+      "fecha": "09/03/2023",
+      "temporada": "2022/23",
+      "marcador": "2-0",
+      "idioma": "ESP",
+      "competicion": "Europa League",
+      "escudo": "https://footballia.eu/uploads/team/logo/287/medium_600px-Fenerbah_e.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos2.footballia.net/uploads/video/source_file/51484/2022-23_Sevilla_-_Fenerbahce.mp4"
+        }
+      ],
+      "createdAt": 1777415303375
     }
   ],
   "nacionales": [
@@ -358,6 +413,40 @@
       ],
       "temporada": "2023/24",
       "createdAt": 0
+    },
+    {
+      "id": "sevilla-fc-vs-rcd-espanyol",
+      "titulo": "Sevilla FC vs. RCD Espanyol",
+      "fecha": "04/05/2023",
+      "temporada": "2022/23",
+      "marcador": "3-2",
+      "idioma": "ESP",
+      "competicion": "Liga",
+      "escudo": "https://footballia.eu/uploads/team/logo/141/medium_170px-Rcd_espanyol_logo.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/53106/2022-23_Sevilla_-_Espanyol.mp4"
+        }
+      ],
+      "createdAt": 1777414342742
+    },
+    {
+      "id": "sevilla-fc-vs-villarreal-cf",
+      "titulo": "Sevilla FC vs. Villarreal CF",
+      "fecha": "23/04/2023",
+      "temporada": "2022/23",
+      "marcador": "2-1",
+      "idioma": "ESP",
+      "competicion": "Liga",
+      "escudo": "https://footballia.eu/uploads/team/logo/161/medium_150px-Villarreal_CF_logo.svg.png",
+      "videos": [
+        {
+          "label": "Parte 1",
+          "url": "https://videos.footballia.net/uploads/video/source_file/52707/2022-23_Sevilla_-_Villarreal.mp4"
+        }
+      ],
+      "createdAt": 1777414501788
     }
   ],
   "finales_sevilla": [
